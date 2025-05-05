@@ -1,4 +1,4 @@
-# Create a Google VPC
+#Create a Google VPC
 resource "google_compute_network" "tf_vpc" {
   # The name of the VPC network
   name = "i27-vpc"
